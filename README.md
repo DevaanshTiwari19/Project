@@ -1,5 +1,9 @@
 # Project
 Pyhton Mini Project
+
+
+
+
 first create your app password on your gmail account
 then specify email,apppass in 'gmail_login.txt' file
 
